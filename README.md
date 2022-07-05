@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <br>
 
-![rla-thdus's GitHub stats](https://github-readme-stats.vercel.app/api?username=rla-thdus&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![rla-thdus's GitHub stats](https://github-readme-stats.vercel.app/api?username=rla-thdus&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rla-thdus&layout=compact&theme=tokyonight&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rla_thdus)](https://solved.ac/rla_thdus)
