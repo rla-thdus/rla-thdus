@@ -2,28 +2,12 @@
 
 # 👋 Hi! I'm Kim So Yeon
 
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=rla-thdus&show_icons=true&theme=tokyonight" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rla-thdus&layout=compact&theme=tokyonight&langs_count=4" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://solved.ac/rla_thdus">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rla_thdus"/>
-  </a>
-</div>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=rla-thdus&theme=react&show_icons=true" height="180px">
+</a>
+<a href="https://solved.ac/rla_thdus">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rla_thdus" height="180px"/>
+</a>
 
 <!--
 **rla-thdus/rla-thdus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
