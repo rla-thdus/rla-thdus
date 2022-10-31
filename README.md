@@ -3,7 +3,7 @@
 # 👋 Hi! I'm Kim So Yeon
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=rla-thdus&theme=react&show_icons=true" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=rla-thdus&theme=react&show_icons=true&count_private=true" height="180px">
 </a>
 <a href="https://solved.ac/rla_thdus">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rla_thdus" height="180px"/>
